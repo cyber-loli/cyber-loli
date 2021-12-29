@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyber-loli
 - 👀 I’m interested in sex
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and rust
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me? Kill me
 
